@@ -1,6 +1,6 @@
 package com.calculator.advancedcalculator;
 
-import javax.swing.*; // swing
+import javax.swing.*; // swing 2
 import java.awt.*;
 import java.awt.event.*;
 
